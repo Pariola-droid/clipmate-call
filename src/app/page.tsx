@@ -155,11 +155,11 @@ const CollectionName = styled('div', {
   fontWeight: 500,
   color: '#2c3e50',
   marginBottom: 4,
-  zIndex: 2,
+  zIndex: 4,
 });
 
 const CollectionCount = styled('div', {
   fontSize: '0.75rem',
   color: '#94a3b8',
-  zIndex: 2,
+  zIndex: 4,
 });
