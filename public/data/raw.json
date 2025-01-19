@@ -1,0 +1,2152 @@
+{
+  "data": {
+    "collections": [
+      {
+        "collectionId": "3873c256-1d11-5643-9a61-dfe961802c8b",
+        "isPublic": false,
+        "itemCount": 36,
+        "name": "Life advice"
+      },
+      {
+        "collectionId": "0dcac1f7-da43-589c-8253-4b52af62539c",
+        "isPublic": false,
+        "itemCount": 7,
+        "name": "Interior Design"
+      },
+      {
+        "collectionId": "89bd5552-712d-560f-8fb9-69b0a686c7be",
+        "isPublic": false,
+        "itemCount": 10,
+        "name": "AI tools - Strat Review"
+      },
+      {
+        "collectionId": "75935ff5-c865-5f31-9f3d-b2c070a870d6",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "Cold Emails "
+      },
+      {
+        "collectionId": "c8552940-3b29-53dd-967d-b803f6ea358c",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "Memes"
+      },
+      {
+        "collectionId": "c37aa816-2069-506d-863b-364db8c9f5d4",
+        "isPublic": false,
+        "itemCount": 60,
+        "name": "Read- / Watch-Later"
+      },
+      {
+        "collectionId": "9c143bc3-b3c6-5fbe-af72-e19f85f2689c",
+        "isPublic": false,
+        "itemCount": 105,
+        "name": "AI Future"
+      },
+      {
+        "collectionId": "42a421f7-2f73-56fe-bdce-e2095973645d",
+        "isPublic": false,
+        "itemCount": 54,
+        "name": "Growth strategies"
+      },
+      {
+        "collectionId": "3437e56d-c5cc-5aae-99bf-171ba76632e9",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "D. "
+      },
+      {
+        "collectionId": "c0ba8349-f23c-5775-a0de-d90bb90729d6",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "Investing"
+      },
+      {
+        "collectionId": "56921b52-3345-59c4-9594-5acf6cfc7b43",
+        "isPublic": false,
+        "itemCount": 66,
+        "name": "Clipmate Feature Ideas"
+      },
+      {
+        "collectionId": "5e5ae16e-d6d2-53c6-ac81-49dd4affdcbe",
+        "isPublic": false,
+        "itemCount": 5,
+        "name": "Coding demos"
+      },
+      {
+        "collectionId": "7d55eb2e-ee67-56b6-9ee1-a055a0d6ab60",
+        "isPublic": false,
+        "itemCount": 18,
+        "name": "Read Later 2"
+      },
+      {
+        "collectionId": "dcedd462-0e9b-5fe1-a6ac-f054400af229",
+        "isPublic": false,
+        "itemCount": 5,
+        "name": "Top 1% AI Tools"
+      },
+      {
+        "collectionId": "5eb9805b-0272-58a7-a088-24c5f8ba9aa9",
+        "isPublic": false,
+        "itemCount": 8,
+        "name": "Great Website Designs"
+      },
+      {
+        "collectionId": "d8706fe2-bb14-555e-8d2e-878fb23511ed",
+        "isPublic": false,
+        "itemCount": 37,
+        "name": "Trash"
+      },
+      {
+        "collectionId": "96b9ea97-52be-5af0-831d-96e515b6bc4a",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Companies with great ops"
+      },
+      {
+        "collectionId": "b75df212-72a4-52c4-b13e-65b702d44d54",
+        "isPublic": true,
+        "itemCount": 6,
+        "name": "Design Inspiration"
+      },
+      {
+        "collectionId": "7662a155-0661-5f9a-8158-04f9bfa60ab6",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "Twitter Cleaner Idea"
+      },
+      {
+        "collectionId": "089abab7-1578-5403-9f96-3ba39708b9f3",
+        "isPublic": false,
+        "itemCount": 12,
+        "name": "USI"
+      },
+      {
+        "collectionId": "6f0bd208-5a34-57b9-b882-1a5ec2a4a628",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "👨‍🍳 Cooking"
+      },
+      {
+        "collectionId": "402f0dff-912e-5fa6-963e-de9679eed781",
+        "isPublic": false,
+        "itemCount": 0,
+        "name": "The greats"
+      },
+      {
+        "collectionId": "bd98f50b-4794-514c-8d15-62dd137f66c8",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Signature"
+      },
+      {
+        "collectionId": "c595c0c8-b7cd-58ad-a7f0-57237f6b74ac",
+        "isPublic": true,
+        "itemCount": 62,
+        "name": "Cursor AI Demos"
+      },
+      {
+        "collectionId": "92bd99b1-0699-51f3-a894-ceaa2b220edd",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "Movies / TV shows to watch"
+      },
+      {
+        "collectionId": "a9b27f9c-57d3-575f-a7c4-9e29ffdd521b",
+        "isPublic": true,
+        "itemCount": 40,
+        "name": "AI UX"
+      },
+      {
+        "collectionId": "f74800f3-00b2-5ec6-8744-20fe5fb09733",
+        "isPublic": false,
+        "itemCount": 183,
+        "name": "Outreach for Clipmate"
+      },
+      {
+        "collectionId": "1d44ab12-530a-54ad-b716-49761f9a8422",
+        "isPublic": false,
+        "itemCount": 45,
+        "name": "Working businesses"
+      },
+      {
+        "collectionId": "5e7731e1-3e70-50d1-a192-d80de6357491",
+        "isPublic": false,
+        "itemCount": 30,
+        "name": "Merchhhhhh"
+      },
+      {
+        "collectionId": "032cac7c-06bb-5cd9-97a7-9180a73db231",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Useful links"
+      },
+      {
+        "collectionId": "dd4a519f-1177-5cdf-9356-e6b7f264b7c6",
+        "isPublic": false,
+        "itemCount": 45,
+        "name": "Consumer Marketing"
+      },
+      {
+        "collectionId": "94646cb9-7a96-5742-867f-462d46f3e910",
+        "isPublic": false,
+        "itemCount": 29,
+        "name": "PE"
+      },
+      {
+        "collectionId": "1ff1b5e4-cb5d-5401-9096-03d1ffbfee9b",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Just another test"
+      },
+      {
+        "collectionId": "42eea785-a2b7-5af0-a485-ede1359ed162",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "Fundraising"
+      },
+      {
+        "collectionId": "587478e8-5a93-5e78-9208-f0dcd1770a3a",
+        "isPublic": true,
+        "itemCount": 16,
+        "name": "AI Coding Editors 2"
+      },
+      {
+        "collectionId": "1c11a9d0-524d-5e31-9a9c-27e3f9c10a1d",
+        "isPublic": false,
+        "itemCount": 10,
+        "name": "Tech / tools to test"
+      },
+      {
+        "collectionId": "d9a6f9cf-aa19-5a55-a0f2-1e5214eb583d",
+        "isPublic": true,
+        "itemCount": 2,
+        "name": "RAG & Search"
+      },
+      {
+        "collectionId": "14246fc9-c2ba-5c7d-bf2f-066621b4803e",
+        "isPublic": false,
+        "itemCount": 4,
+        "name": "New AI Demos"
+      },
+      {
+        "collectionId": "57e187c3-1a9e-537f-b6c0-c146e5aa9b8a",
+        "isPublic": false,
+        "itemCount": 41,
+        "name": "Backlinks"
+      },
+      {
+        "collectionId": "0bd15c48-115b-5a23-af3a-5e7a58a5e846",
+        "isPublic": false,
+        "itemCount": 8,
+        "name": "Gift ideas"
+      },
+      {
+        "collectionId": "d619b73a-0e4b-502b-8307-0f23402253e3",
+        "isPublic": false,
+        "itemCount": 6,
+        "name": "Career Advice"
+      },
+      {
+        "collectionId": "1103107d-12fb-5958-9a4e-0b773035ef2a",
+        "isPublic": false,
+        "itemCount": 28,
+        "name": "Clipmate Competitors"
+      },
+      {
+        "collectionId": "615bc7b3-5905-5453-bf2e-cf35de235ac2",
+        "isPublic": false,
+        "itemCount": 20,
+        "name": "Ecom - General"
+      },
+      {
+        "collectionId": "72e2a77c-c7be-55f8-800c-34f062cc22ba",
+        "isPublic": false,
+        "itemCount": 19,
+        "name": "O3 Launch"
+      },
+      {
+        "collectionId": "24d11983-955c-568e-8859-1794d3be513f",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Hiring"
+      },
+      {
+        "collectionId": "385a1506-7704-563e-9ac9-2ad40bd6fa33",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "Consumer Investors"
+      },
+      {
+        "collectionId": "8069a329-a83c-5472-af1d-4cf5e2bfa3fe",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "iOS Apps"
+      },
+      {
+        "collectionId": "97c3e8be-1a53-5d7e-b6e3-ed0a270ebb0d",
+        "isPublic": false,
+        "itemCount": 9,
+        "name": "Startups to watch"
+      },
+      {
+        "collectionId": "8778ceb7-587f-5b41-ab0a-25b72e688952",
+        "isPublic": false,
+        "itemCount": 260,
+        "name": "Vibes"
+      },
+      {
+        "collectionId": "9b8f4a80-e34f-5964-9934-9c5b235d274c",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "The Internet is a cool place"
+      },
+      {
+        "collectionId": "3232b76e-60e8-5bc1-ae90-4f38d8007b35",
+        "isPublic": true,
+        "itemCount": 12,
+        "name": "O1 Demos / Launch"
+      },
+      {
+        "collectionId": "2d75f96e-d378-5cdb-9bf1-d4b0a75e1663",
+        "isPublic": true,
+        "itemCount": 68,
+        "name": "SEO"
+      },
+      {
+        "collectionId": "4ffb0379-7fb7-5fbc-89ed-e522fe7d5802",
+        "isPublic": false,
+        "itemCount": 17,
+        "name": "Startup advice"
+      },
+      {
+        "collectionId": "9449ae6e-9a15-5829-90a2-2e86fbc7bfcd",
+        "isPublic": false,
+        "itemCount": 19,
+        "name": "Test November 2024"
+      },
+      {
+        "collectionId": "5ece9201-537b-5be0-a8b4-c672eddfb4e6",
+        "isPublic": false,
+        "itemCount": 60,
+        "name": "Health + Fitness"
+      },
+      {
+        "collectionId": "294f9ddc-ce21-5d29-ac2f-a34dbeabbe6c",
+        "isPublic": false,
+        "itemCount": 12,
+        "name": "Clothing"
+      },
+      {
+        "collectionId": "81ec1e6c-9676-510f-af50-91e78b90768d",
+        "isPublic": true,
+        "itemCount": 12,
+        "name": "Best threads on Sleep"
+      },
+      {
+        "collectionId": "bed5a7d0-e7d1-5c90-9c49-7618ea663c30",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "Ecom product ideas"
+      },
+      {
+        "collectionId": "3d4e6674-d38a-5f23-aa90-0bb453e52633",
+        "isPublic": false,
+        "itemCount": 30,
+        "name": "Things to buy"
+      },
+      {
+        "collectionId": "9e3a259c-d3f3-5cbb-8824-20e89e82bcc1",
+        "isPublic": false,
+        "itemCount": 2,
+        "name": "Practical life tips"
+      },
+      {
+        "collectionId": "45670e08-26f2-5325-8b43-82f96f3d35d3",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Coding with AI"
+      },
+      {
+        "collectionId": "927f1753-8d90-5745-99b3-0caa16df5beb",
+        "isPublic": false,
+        "itemCount": 3,
+        "name": "People"
+      },
+      {
+        "collectionId": "b1ceb359-cf43-575a-94b4-bb78dc491280",
+        "isPublic": false,
+        "itemCount": 29,
+        "name": "Clipmate Research"
+      },
+      {
+        "collectionId": "31188a54-f0ee-51ab-8589-5adf770a7272",
+        "isPublic": false,
+        "itemCount": 5,
+        "name": "Reviewers / SEO Outreach / Influencers"
+      },
+      {
+        "collectionId": "be2de529-8f47-5031-93a3-f213ebe73e57",
+        "isPublic": false,
+        "itemCount": 11,
+        "name": "Directories - To do"
+      },
+      {
+        "collectionId": "1b4fcc7b-451c-54af-884f-7caf07b1c727",
+        "isPublic": false,
+        "itemCount": 73,
+        "name": "Books"
+      },
+      {
+        "collectionId": "aa0c258d-85e2-57f8-97cc-ca2bf1eada30",
+        "isPublic": false,
+        "itemCount": 117,
+        "name": "Business ideas"
+      },
+      {
+        "collectionId": "bd18a986-d1ad-54e2-a24b-521c48fa5afb",
+        "isPublic": true,
+        "itemCount": 9,
+        "name": "Cursor for iOS"
+      },
+      {
+        "collectionId": "342818cd-8ca3-5f40-b049-4a216343d7a2",
+        "isPublic": false,
+        "itemCount": 10,
+        "name": "Promo-friendly subreddits"
+      },
+      {
+        "collectionId": "501c6f5b-94e7-5fb7-bc02-a593506f8621",
+        "isPublic": false,
+        "itemCount": 97,
+        "name": "Versorium"
+      },
+      {
+        "collectionId": "8ed3dee6-7bf1-5cf0-baf3-8d0531cae849",
+        "isPublic": false,
+        "itemCount": 1,
+        "name": "Life ideas"
+      },
+      {
+        "collectionId": "07114032-cc72-5107-812b-eb90f9c85420",
+        "isPublic": false,
+        "itemCount": 16,
+        "name": "AI tools to watch"
+      }
+    ],
+    "items": [
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 464,
+              "type": "photo",
+              "media_key": "3_1812862413076643841",
+              "url": "https://pbs.twimg.com/media/GSiUwn4XQAEsIXp.jpg",
+              "width": 1122
+            }
+          ],
+          "author": {
+            "created_at": "2020-10-22T14:42:25.000Z",
+            "description": "Unfiltered Unbiased Verified 24x7 Breaking News | NO BIAS, NO ECHO CHAMBERS: Host of the Largest Show on 𝕏 | Founder & Investor",
+            "verified": false,
+            "id": "1319287761048723458",
+            "public_metrics": {
+              "tweet_count": 48971,
+              "listed_count": 6296,
+              "followers_count": 1541889,
+              "following_count": 25927,
+              "like_count": 131249
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+            "username": "MarioNawfal",
+            "name": "Mario Nawfal"
+          },
+          "post": {
+            "created_at": "2024-07-15T14:50:57.000Z",
+            "entities": {
+              "urls": [
+                {
+                  "end": 152,
+                  "start": 129,
+                  "expanded_url": "https://twitter.com/i/web/status/1812862423222628769",
+                  "display_url": "x.com/i/web/status/1…",
+                  "url": "https://t.co/bsrY365eKV"
+                },
+                {
+                  "end": 176,
+                  "start": 153,
+                  "media_key": "3_1812862413076643841",
+                  "expanded_url": "https://twitter.com/MarioNawfal/status/1812862423222628769/photo/1",
+                  "display_url": "pic.twitter.com/mh4oZ1ZXqW",
+                  "url": "https://t.co/mh4oZ1ZXqW"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "Named people in the world like Nelson Mandela",
+                  "id": "10",
+                  "name": "Person"
+                }
+              },
+              {
+                "entity": {
+                  "description": "2020 US Presidential Election",
+                  "id": "1665772587467653121",
+                  "name": "2024 US Presidential Election"
+                },
+                "domain": {
+                  "description": "Real world events. ",
+                  "id": "29",
+                  "name": "Events [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "Politicians in the world, like Joe Biden",
+                  "id": "35",
+                  "name": "Politician"
+                }
+              },
+              {
+                "entity": {
+                  "id": "781974597310615553",
+                  "name": "Entertainment"
+                },
+                "domain": {
+                  "description": "Top level entities that describe a Brands industry",
+                  "id": "45",
+                  "name": "Brand Vertical"
+                }
+              },
+              {
+                "entity": {
+                  "id": "781974597105094656",
+                  "name": "TV/Movies Related - Entertainment"
+                },
+                "domain": {
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                  "id": "30",
+                  "name": "Entities [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+                  "id": "1557697121477832705",
+                  "name": "Publisher & News Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Fox News",
+                  "id": "1065657279150665728",
+                  "name": "Fox News"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Politics",
+                  "id": "847878884917886977",
+                  "name": "Politics"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "News",
+                  "id": "1046545033657081857",
+                  "name": "News"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Fox News",
+                  "id": "1065657279150665728",
+                  "name": "Fox News"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Politician",
+                  "id": "1070032753834438656",
+                  "name": "Political figures"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1196447117297905665",
+                  "name": "News outlets"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1291447199595782144",
+                  "name": "United States politics"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "2020 US Presidential Election",
+                  "id": "1665772587467653121",
+                  "name": "2024 US Presidential Election"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              }
+            ],
+            "text": "🚨🇺🇸BREAKING: TRUMP TO REVEAL VP PICK TODAY\n\nTrump announced on Fox News that he will reveal his VP pick today.\n\nSource: Fox News https://t.co/bsrY365eKV https://t.co/mh4oZ1ZXqW",
+            "id": "1812862423222628769",
+            "edit_history_tweet_ids": ["1812862423222628769"],
+            "attachments": {
+              "media_keys": ["3_1812862413076643841"]
+            },
+            "conversation_id": "1812862423222628769",
+            "public_metrics": {
+              "quote_count": 51,
+              "retweet_count": 256,
+              "impression_count": 187700,
+              "bookmark_count": 113,
+              "reply_count": 454,
+              "like_count": 2106
+            },
+            "lang": "en",
+            "author_id": "1319287761048723458"
+          },
+          "url": "http://www.twitter.com/1319287761048723458/status/1812862423222628769"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 623,
+              "type": "photo",
+              "media_key": "3_1834339811181912064",
+              "url": "https://pbs.twimg.com/media/GXTiVura4AAhI2z.png",
+              "width": 513
+            }
+          ],
+          "author": {
+            "created_at": "2022-03-03T23:11:35.000Z",
+            "description": "Nostalgia for the Future.",
+            "verified": false,
+            "id": "1499522644483325952",
+            "public_metrics": {
+              "tweet_count": 18279,
+              "listed_count": 1300,
+              "followers_count": 145486,
+              "following_count": 341,
+              "like_count": 56785
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1535493957953589249/qFzu0Dqt_normal.jpg",
+            "username": "SmokeAwayyy",
+            "name": "Smoke-away"
+          },
+          "post": {
+            "created_at": "2024-09-12T21:30:00.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "end": 24,
+                  "start": 18,
+                  "type": "Other",
+                  "probability": 0.9278,
+                  "normalized_text": "ChatGPT"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 136,
+                  "start": 113,
+                  "media_key": "3_1834339811181912064",
+                  "expanded_url": "https://twitter.com/SmokeAwayyy/status/1834343731048444091/photo/1",
+                  "display_url": "pic.x.com/tu5el1dc1p",
+                  "url": "https://t.co/tU5EL1Dc1p"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+                  "id": "1557697333571112960",
+                  "name": "Technology Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1631434932688920576",
+                  "name": "OpenAI"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1620189216029163524",
+                  "name": "ChatGPT"
+                },
+                "domain": {
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                  "id": "48",
+                  "name": "Product"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Technology and computing",
+                  "id": "848920371311001600",
+                  "name": "Technology"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Artificial Intelligence",
+                  "id": "898262889378619392",
+                  "name": "Artificial intelligence"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Technology and computing",
+                  "id": "848920371311001600",
+                  "name": "Technology"
+                },
+                "domain": {
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing",
+                  "id": "165",
+                  "name": "Technology"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Artificial Intelligence",
+                  "id": "898262889378619392",
+                  "name": "Artificial intelligence"
+                },
+                "domain": {
+                  "description": "for individual and types of technology, e.g., food technology, 3D printing",
+                  "id": "165",
+                  "name": "Technology"
+                }
+              }
+            ],
+            "text": "If you could give ChatGPT one prompt and have it think for a year straight before it responds, what would it be? https://t.co/tU5EL1Dc1p",
+            "id": "1834343731048444091",
+            "edit_history_tweet_ids": ["1834343731048444091"],
+            "attachments": {
+              "media_keys": ["3_1834339811181912064"]
+            },
+            "conversation_id": "1834343731048444091",
+            "public_metrics": {
+              "quote_count": 11,
+              "retweet_count": 13,
+              "impression_count": 61922,
+              "bookmark_count": 75,
+              "reply_count": 162,
+              "like_count": 526
+            },
+            "lang": "en",
+            "author_id": "1499522644483325952"
+          },
+          "url": "http://www.twitter.com/1499522644483325952/status/1834343731048444091"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 720,
+              "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1604081777907220480/pu/img/yBXmHXeeVnfvEMDE.jpg",
+              "media_key": "7_1604081777907220480",
+              "type": "video",
+              "duration_ms": 139349,
+              "width": 1280,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1604081777907220480/pu/vid/480x270/uW_1WN9iNwbON1B4.mp4?tag=12",
+                  "bit_rate": 256000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1604081777907220480/pu/vid/640x360/Ne4DzD5jMtIb-nGT.mp4?tag=12",
+                  "bit_rate": 832000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1604081777907220480/pu/vid/1280x720/Mto9yCagQEKFP-Dx.mp4?tag=12",
+                  "bit_rate": 2176000
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1604081777907220480/pu/pl/svVRwTr3oqK86RIj.m3u8?tag=12"
+                }
+              ],
+              "public_metrics": {
+                "view_count": 52838
+              }
+            }
+          ],
+          "author": {
+            "created_at": "2020-01-30T06:48:04.000Z",
+            "description": "Aggregating and curating news, politics and current affairs. #BTC",
+            "verified": false,
+            "id": "1222773302441148416",
+            "public_metrics": {
+              "tweet_count": 49794,
+              "listed_count": 8837,
+              "followers_count": 1138451,
+              "following_count": 1651,
+              "like_count": 51751
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1798263200648994816/qFYydb3B_normal.jpg",
+            "username": "visegrad24",
+            "name": "Visegrád 24"
+          },
+          "post": {
+            "created_at": "2024-09-12T21:35:08.000Z",
+            "edit_history_tweet_ids": ["1834345023095083443"],
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+                  "id": "1557696940178935808",
+                  "name": "Gaming Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              }
+            ],
+            "entities": {
+              "urls": [
+                {
+                  "end": 99,
+                  "start": 76,
+                  "media_key": "7_1604081777907220480",
+                  "expanded_url": "https://twitter.com/rogibox/status/1604082424308285445/video/1",
+                  "url": "https://t.co/mbLB2hOCqu",
+                  "display_url": "pic.x.com/mblb2hocqu"
+                }
+              ]
+            },
+            "id": "1834345023095083443",
+            "text": "On September 12th 1683, the Polish Winged Hussars arrived at Vienna\n\n🇵🇱🇦🇹🇹🇷 https://t.co/mbLB2hOCqu",
+            "attachments": {
+              "media_keys": ["7_1604081777907220480"],
+              "media_source_tweet_id": ["1604082424308285445"]
+            },
+            "conversation_id": "1834345023095083443",
+            "public_metrics": {
+              "quote_count": 25,
+              "reply_count": 92,
+              "impression_count": 116083,
+              "bookmark_count": 256,
+              "retweet_count": 425,
+              "like_count": 3543
+            },
+            "lang": "en",
+            "author_id": "1222773302441148416"
+          },
+          "url": "http://www.twitter.com/1222773302441148416/status/1834345023095083443"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 2830,
+              "type": "photo",
+              "media_key": "3_1838927214412455936",
+              "url": "https://pbs.twimg.com/media/GYUujvbaYAAP5fO.jpg",
+              "width": 2000
+            }
+          ],
+          "author": {
+            "created_at": "2019-11-23T17:32:59.000Z",
+            "description": "Your shortcut to everything.\n✨ Pro → https://t.co/U2NFkqtaYw\n🏪 Store → https://t.co/aXtNuiE7G2\n👥 Community → https://t.co/R2il42i6E7",
+            "verified": true,
+            "id": "1198293183697952769",
+            "public_metrics": {
+              "tweet_count": 1820,
+              "listed_count": 672,
+              "followers_count": 58438,
+              "following_count": 28,
+              "like_count": 3468
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1450891458299703296/yJEV2j6W_normal.jpg",
+            "username": "raycastapp",
+            "name": "Raycast"
+          },
+          "post": {
+            "created_at": "2024-09-25T13:03:09.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "end": 44,
+                  "start": 38,
+                  "type": "Other",
+                  "probability": 0.8386,
+                  "normalized_text": "Raycast"
+                },
+                {
+                  "end": 55,
+                  "start": 49,
+                  "type": "Other",
+                  "probability": 0.9616,
+                  "normalized_text": "Windows"
+                },
+                {
+                  "end": 63,
+                  "start": 61,
+                  "type": "Other",
+                  "probability": 0.9855,
+                  "normalized_text": "iOS"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 117,
+                  "start": 94,
+                  "description": "Announcing our Series B to bring Raycast to Windows and iOS",
+                  "url": "https://t.co/mOhjqvEd00",
+                  "title": "$30M Series B to bring Raycast to new platforms - Raycast Blog",
+                  "status": 200,
+                  "expanded_url": "http://raycast.com/blog/series-b",
+                  "display_url": "raycast.com/blog/series-b",
+                  "unwound_url": "https://www.raycast.com/blog/series-b"
+                },
+                {
+                  "end": 141,
+                  "start": 118,
+                  "media_key": "3_1838927214412455936",
+                  "expanded_url": "https://twitter.com/raycastapp/status/1838927219437310366/photo/1",
+                  "display_url": "pic.x.com/yjgonrblk2",
+                  "url": "https://t.co/yjgONrbLK2"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+                  "id": "1557697333571112960",
+                  "name": "Technology Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Technology and computing",
+                  "id": "848920371311001600",
+                  "name": "Technology"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1303989823011606528",
+                  "name": "Tech events"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10026364281",
+                  "name": "Apple"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10044903039",
+                  "name": "Apple - iOS"
+                },
+                "domain": {
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                  "id": "48",
+                  "name": "Product"
+                }
+              }
+            ],
+            "text": "Announcing our $30M Series B to bring Raycast to Windows and iOS.\n\nRead on for early access 👉 https://t.co/mOhjqvEd00 https://t.co/yjgONrbLK2",
+            "id": "1838927219437310366",
+            "edit_history_tweet_ids": ["1838927219437310366"],
+            "attachments": {
+              "media_keys": ["3_1838927214412455936"]
+            },
+            "conversation_id": "1838927219437310366",
+            "public_metrics": {
+              "quote_count": 27,
+              "retweet_count": 29,
+              "impression_count": 22439,
+              "bookmark_count": 8,
+              "reply_count": 43,
+              "like_count": 303
+            },
+            "lang": "en",
+            "author_id": "1198293183697952769"
+          },
+          "url": "http://www.twitter.com/1198293183697952769/status/1838927219437310366"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 484,
+              "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1848374065783799809/img/2ehiVHOuAhHZbrMx.jpg",
+              "media_key": "13_1848374065783799809",
+              "type": "video",
+              "duration_ms": 15541,
+              "width": 874,
+              "public_metrics": {
+                "view_count": 154891
+              },
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1848374065783799809/vid/avc1/486x270/qGUavZrzZSkPq5kH.mp4?tag=16",
+                  "bit_rate": 288000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1848374065783799809/vid/avc1/650x360/s4VD_6S9PcnpyDzh.mp4?tag=16",
+                  "bit_rate": 832000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1848374065783799809/vid/avc1/874x484/RP4zUVBV5E01ahJs.mp4?tag=16",
+                  "bit_rate": 2176000
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1848374065783799809/pl/T-reEUps9sYyFWM-.m3u8?tag=16&v=4f5"
+                }
+              ]
+            }
+          ],
+          "author": {
+            "created_at": "2017-12-27T00:42:32.000Z",
+            "description": "Write on business with @workweekinc. Building an AI research app: @bearlyai",
+            "verified": false,
+            "id": "945817135816654848",
+            "public_metrics": {
+              "tweet_count": 69740,
+              "listed_count": 5904,
+              "followers_count": 705075,
+              "following_count": 4173,
+              "like_count": 167633
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD_normal.jpg",
+            "username": "TrungTPhan",
+            "name": "Trung Phan"
+          },
+          "url": "http://www.twitter.com/945817135816654848/status/1859323599867478133",
+          "post": {
+            "created_at": "2024-11-20T19:51:05.000Z",
+            "edit_history_tweet_ids": ["1859323599867478133"],
+            "entities": {
+              "annotations": [
+                {
+                  "end": 10,
+                  "start": 5,
+                  "type": "Organization",
+                  "probability": 0.8837,
+                  "normalized_text": "Jaguar"
+                },
+                {
+                  "end": 174,
+                  "start": 169,
+                  "type": "Organization",
+                  "probability": 0.7966,
+                  "normalized_text": "Jaguar"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 210,
+                  "start": 187,
+                  "media_key": "13_1848374065783799809",
+                  "expanded_url": "https://x.com/TrungTPhan/status/1848374131902857466/video/1",
+                  "url": "https://t.co/2P3yfdgBYn",
+                  "display_url": "pic.x.com/2P3yfdgBYn"
+                }
+              ]
+            },
+            "text": "POV: Jaguar CEO breaking into the brand marketing meeting this AM and demanding that the jaguar animal be put back into the logo after seeing the 75,789th meme roasting Jaguar’s re-brand https://t.co/2P3yfdgBYn",
+            "id": "1859323599867478133",
+            "attachments": {
+              "media_keys": ["13_1848374065783799809"],
+              "media_source_tweet_id": ["1848374131902857466"]
+            },
+            "conversation_id": "1859323599867478133",
+            "lang": "en",
+            "public_metrics": {
+              "quote_count": 2,
+              "retweet_count": 53,
+              "impression_count": 123476,
+              "bookmark_count": 78,
+              "reply_count": 24,
+              "like_count": 573
+            },
+            "author_id": "945817135816654848"
+          }
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [],
+          "author": {
+            "created_at": "2007-05-22T10:52:05.000Z",
+            "description": "Posting stuff I find interesting.\nWork: @btv_vc, leading pre/seed rounds of fintech cos. \napply to our accelerator https://t.co/LSnRc5xYjD!\n\nAlways up for adventure.",
+            "verified": false,
+            "id": "6228302",
+            "public_metrics": {
+              "tweet_count": 36933,
+              "listed_count": 1340,
+              "followers_count": 129968,
+              "following_count": 3086,
+              "like_count": 111457
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1677703475994542081/L6D7mFUc_normal.jpg",
+            "username": "pitdesi",
+            "name": "Sheel Mohnot"
+          },
+          "post": {
+            "created_at": "2024-08-06T16:47:09.000Z",
+            "entities": {
+              "annotations": [
+                {
+                  "end": 3,
+                  "start": 0,
+                  "type": "Person",
+                  "probability": 0.7667,
+                  "normalized_text": "Fred"
+                },
+                {
+                  "end": 23,
+                  "start": 16,
+                  "type": "Organization",
+                  "probability": 0.5106,
+                  "normalized_text": "Coinbase"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 264,
+                  "start": 241,
+                  "expanded_url": "https://twitter.com/FEhrsam/status/1820859394361610338",
+                  "display_url": "x.com/FEhrsam/status…",
+                  "url": "https://t.co/bHg6iRHPem"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "id": "781974596794716162",
+                  "name": "Financial services"
+                },
+                "domain": {
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                  "id": "30",
+                  "name": "Entities [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1370436971940642819",
+                  "name": "Coinbase"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Cryptocurrency",
+                  "id": "913142676819648512",
+                  "name": "Cryptocurrencies"
+                },
+                "domain": {
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                  "id": "66",
+                  "name": "Interests and Hobbies Category"
+                }
+              },
+              {
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "781974596794716162",
+                  "name": "Financial services"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Cryptocurrency",
+                  "id": "913142676819648512",
+                  "name": "Cryptocurrencies"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1370436971940642819",
+                  "name": "Coinbase"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1390680741206368263",
+                  "name": "Cryptocurrency exchanges"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1491481998862348291",
+                  "name": "Digital asset industry"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Cryptocurrency",
+                  "id": "1492162686204854274",
+                  "name": "Digital assets & cryptocurrency"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              }
+            ],
+            "text": "Fred co-founded Coinbase.\n\nHis new company is building a headset that will let you press a button to shift your brain state: go to sleep, boost focus, break habits, elevate mood, etc... via ultrasound neuromodulation.\n\nCan't wait to try it. https://t.co/bHg6iRHPem",
+            "id": "1820864196873220445",
+            "referenced_tweets": [
+              {
+                "type": "quoted",
+                "id": "1820859394361610338"
+              }
+            ],
+            "edit_history_tweet_ids": [
+              "1820863063626780806",
+              "1820864196873220445"
+            ],
+            "conversation_id": "1820864196873220445",
+            "public_metrics": {
+              "quote_count": 2,
+              "retweet_count": 6,
+              "impression_count": 17393,
+              "bookmark_count": 21,
+              "reply_count": 3,
+              "like_count": 103
+            },
+            "lang": "en",
+            "author_id": "6228302"
+          },
+          "url": "http://www.twitter.com/6228302/status/1820864196873220445"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 364,
+              "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1869782538756952065/img/eqazdo0M95uJrDOc.jpg",
+              "media_key": "13_1869782538756952065",
+              "type": "video",
+              "duration_ms": 52103,
+              "width": 640,
+              "variants": [
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1869782538756952065/vid/avc1/474x270/7Z8jpq32XYJ7rbkd.mp4?tag=16",
+                  "bit_rate": 288000
+                },
+                {
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1869782538756952065/vid/avc1/640x364/Xh6xbAxE3VIh4iD5.mp4?tag=16",
+                  "bit_rate": 832000
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1869782538756952065/pl/vpL3gRLQARQogsnP.m3u8?tag=16&v=7d2"
+                }
+              ],
+              "public_metrics": {
+                "view_count": 4431
+              }
+            }
+          ],
+          "author": {
+            "created_at": "2010-09-24T19:31:27.000Z",
+            "description": "space drugs and arms @vardaspace | village idiot/partner @foundersfund",
+            "verified": false,
+            "id": "194694215",
+            "public_metrics": {
+              "tweet_count": 14659,
+              "listed_count": 1501,
+              "followers_count": 188280,
+              "like_count": 164793,
+              "following_count": 866,
+              "media_count": 1788
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1144717059042861056/IrsMNQB7_normal.png",
+            "username": "zebulgar",
+            "name": "delian"
+          },
+          "post": {
+            "created_at": "2024-12-19T16:33:03.000Z",
+            "entities": {
+              "urls": [
+                {
+                  "end": 126,
+                  "start": 103,
+                  "media_key": "13_1869782538756952065",
+                  "expanded_url": "https://x.com/eriktorenberg/status/1869782602569441374/video/1",
+                  "display_url": "pic.x.com/ggwMLkAdun",
+                  "url": "https://t.co/ggwMLkAdun"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "Society",
+                  "id": "847896364256067584",
+                  "name": "Society"
+                },
+                "domain": {
+                  "description": "Top level interests and hobbies groupings, like Food or Travel",
+                  "id": "65",
+                  "name": "Interests and Hobbies Vertical"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Marriage",
+                  "id": "847896538105782272",
+                  "name": "Marriage"
+                },
+                "domain": {
+                  "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+                  "id": "66",
+                  "name": "Interests and Hobbies Category"
+                }
+              }
+            ],
+            "edit_history_tweet_ids": ["1869783011858022438"],
+            "id": "1869783011858022438",
+            "text": "the wife and i had a great time talking about how marriage is like being locked in prison together 😂❤️ https://t.co/ggwMLkAdun",
+            "attachments": {
+              "media_keys": ["13_1869782538756952065"],
+              "media_source_tweet_id": ["1869782602569441374"]
+            },
+            "conversation_id": "1869783011858022438",
+            "lang": "en",
+            "public_metrics": {
+              "quote_count": 2,
+              "reply_count": 4,
+              "impression_count": 6866,
+              "bookmark_count": 27,
+              "retweet_count": 3,
+              "like_count": 83
+            },
+            "author_id": "194694215"
+          },
+          "url": "http://www.twitter.com/194694215/status/1869783011858022438"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 354,
+              "media_key": "3_1856989857668628480",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/GcVab9HXgAAhcFD.jpg",
+              "width": 630
+            },
+            {
+              "height": 1442,
+              "media_key": "3_1856989857681154048",
+              "type": "photo",
+              "url": "https://pbs.twimg.com/media/GcVab9KWoAAujPx.jpg",
+              "width": 1080
+            }
+          ],
+          "author": {
+            "created_at": "2012-08-07T20:31:07.000Z",
+            "description": "President, Kyiv School of Economics; Minister of economy, Ukraine, 2019-2020; Associate professor, University of Pittsburgh",
+            "verified": false,
+            "id": "743683514",
+            "public_metrics": {
+              "tweet_count": 15586,
+              "followers_count": 103872,
+              "listed_count": 1873,
+              "following_count": 1217,
+              "like_count": 10116
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1651665619488501763/x9KHaC9c_normal.jpg",
+            "username": "Mylovanov",
+            "name": "Tymofiy Mylovanov"
+          },
+          "post": {
+            "text": "The best explanation for Trump’s nominations of Matt Gaetz and Tulsi Gabbard comes from Konstantin Sonin @k_sonin : they won’t be confirmed, but it’s Trump’s way of rewarding loyalty. \n\nI quote:  1/ https://t.co/WvXqIUseSN",
+            "entities": {
+              "mentions": [
+                {
+                  "end": 113,
+                  "start": 105,
+                  "id": "150312043",
+                  "username": "k_sonin"
+                }
+              ],
+              "annotations": [
+                {
+                  "end": 29,
+                  "start": 25,
+                  "type": "Person",
+                  "probability": 0.9734,
+                  "normalized_text": "Trump"
+                },
+                {
+                  "end": 57,
+                  "start": 48,
+                  "type": "Person",
+                  "probability": 0.979,
+                  "normalized_text": "Matt Gaetz"
+                },
+                {
+                  "end": 75,
+                  "start": 63,
+                  "type": "Person",
+                  "probability": 0.9686,
+                  "normalized_text": "Tulsi Gabbard"
+                },
+                {
+                  "end": 103,
+                  "start": 88,
+                  "type": "Person",
+                  "probability": 0.97,
+                  "normalized_text": "Konstantin Sonin"
+                },
+                {
+                  "end": 154,
+                  "start": 150,
+                  "type": "Person",
+                  "probability": 0.9494,
+                  "normalized_text": "Trump"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 222,
+                  "start": 199,
+                  "media_key": "3_1856989857668628480",
+                  "expanded_url": "https://x.com/Mylovanov/status/1856989871895654882/photo/1",
+                  "display_url": "pic.x.com/WvXqIUseSN",
+                  "url": "https://t.co/WvXqIUseSN"
+                },
+                {
+                  "end": 222,
+                  "start": 199,
+                  "media_key": "3_1856989857681154048",
+                  "expanded_url": "https://x.com/Mylovanov/status/1856989871895654882/photo/1",
+                  "url": "https://t.co/WvXqIUseSN",
+                  "display_url": "pic.x.com/WvXqIUseSN"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "Named people in the world like Nelson Mandela",
+                  "id": "10",
+                  "name": "Person"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Matt Gaetz (FL-01)",
+                  "id": "966043884340985856",
+                  "name": "Matt Gaetz"
+                },
+                "domain": {
+                  "description": "Named people in the world like Nelson Mandela",
+                  "id": "10",
+                  "name": "Person"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Tulsi Gabbard (HI-02)",
+                  "id": "980878051524231168",
+                  "name": "Tulsi Gabbard"
+                },
+                "domain": {
+                  "description": "Named people in the world like Nelson Mandela",
+                  "id": "10",
+                  "name": "Person"
+                }
+              },
+              {
+                "entity": {
+                  "description": "2024 US Presidential Election",
+                  "id": "1665772587467653121",
+                  "name": "2024 US Presidential Election"
+                },
+                "domain": {
+                  "description": "Real world events. ",
+                  "id": "29",
+                  "name": "Events [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1849514207546355712",
+                  "name": "2024 US Election Day"
+                },
+                "domain": {
+                  "description": "Real world events. ",
+                  "id": "29",
+                  "name": "Events [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "Politicians in the world, like Joe Biden",
+                  "id": "35",
+                  "name": "Politician"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Matt Gaetz (FL-01)",
+                  "id": "966043884340985856",
+                  "name": "Matt Gaetz"
+                },
+                "domain": {
+                  "description": "Politicians in the world, like Joe Biden",
+                  "id": "35",
+                  "name": "Politician"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Tulsi Gabbard (HI-02)",
+                  "id": "980878051524231168",
+                  "name": "Tulsi Gabbard"
+                },
+                "domain": {
+                  "description": "Politicians in the world, like Joe Biden",
+                  "id": "35",
+                  "name": "Politician"
+                }
+              },
+              {
+                "entity": {
+                  "description": "45th US President, Donald Trump",
+                  "id": "799022225751871488",
+                  "name": "Donald Trump"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Politics",
+                  "id": "847878884917886977",
+                  "name": "Politics"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Matt Gaetz (FL-01)",
+                  "id": "966043884340985856",
+                  "name": "Matt Gaetz"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "US Representative Tulsi Gabbard (HI-02)",
+                  "id": "980878051524231168",
+                  "name": "Tulsi Gabbard"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Politician",
+                  "id": "1070032753834438656",
+                  "name": "Political figures"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1291447199595782144",
+                  "name": "United States politics"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "2024 US Presidential Election",
+                  "id": "1665772587467653121",
+                  "name": "2024 US Presidential Election"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+                  "id": "1836137739353292800",
+                  "name": "2024 US Election"
+                },
+                "domain": {
+                  "description": "Real world events. ",
+                  "id": "29",
+                  "name": "Events [Entity Service]"
+                }
+              }
+            ],
+            "edit_history_tweet_ids": ["1856989871895654882"],
+            "id": "1856989871895654882",
+            "created_at": "2024-11-14T09:17:41.000Z",
+            "attachments": {
+              "media_keys": ["3_1856989857668628480", "3_1856989857681154048"]
+            },
+            "conversation_id": "1856989871895654882",
+            "public_metrics": {
+              "quote_count": 59,
+              "retweet_count": 323,
+              "impression_count": 350278,
+              "bookmark_count": 301,
+              "reply_count": 210,
+              "like_count": 2189
+            },
+            "lang": "en",
+            "author_id": "743683514"
+          },
+          "url": "http://www.twitter.com/743683514/status/1856989871895654882"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [
+            {
+              "height": 1536,
+              "type": "photo",
+              "media_key": "3_1842732346770145280",
+              "url": "https://pbs.twimg.com/media/GZKzTmFbQAAuKUC.jpg",
+              "width": 2048
+            }
+          ],
+          "author": {
+            "created_at": "2009-11-03T04:54:20.000Z",
+            "description": "Founder & CEO @PachamaInc",
+            "verified": false,
+            "id": "87111271",
+            "public_metrics": {
+              "tweet_count": 22788,
+              "followers_count": 24466,
+              "listed_count": 486,
+              "following_count": 2476,
+              "like_count": 37576
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1564061773551980544/rkwZWlSZ_normal.jpg",
+            "username": "dsaezgil",
+            "name": "Diego Saez Gil"
+          },
+          "post": {
+            "text": "“What people call micro-management is just management.\n\nWhat people call over-optimism is just optimism.\n\nWhat people call over-reacting is just reacting.”\n\n@alexandr_wang on ‘founder mode’ at @ycombinator reunion https://t.co/mymlhObhMm",
+            "entities": {
+              "mentions": [
+                {
+                  "end": 171,
+                  "start": 157,
+                  "id": "615818451",
+                  "username": "alexandr_wang"
+                },
+                {
+                  "end": 205,
+                  "start": 193,
+                  "id": "113130846",
+                  "username": "ycombinator"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 237,
+                  "start": 214,
+                  "media_key": "3_1842732346770145280",
+                  "expanded_url": "https://x.com/dsaezgil/status/1842732351245480380/photo/1",
+                  "display_url": "pic.x.com/mymlhObhMm",
+                  "url": "https://t.co/mymlhObhMm"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+                  "id": "1557696848252391426",
+                  "name": "Financial Services Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+                  "id": "1557697333571112960",
+                  "name": "Technology Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "1640417858734661637",
+                  "name": "Y Combinator"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "id": "781974596148793345",
+                  "name": "Business & finance"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Technology and computing",
+                  "id": "848920371311001600",
+                  "name": "Technology"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              }
+            ],
+            "edit_history_tweet_ids": ["1842732351245480380"],
+            "id": "1842732351245480380",
+            "created_at": "2024-10-06T01:03:23.000Z",
+            "attachments": {
+              "media_keys": ["3_1842732346770145280"]
+            },
+            "conversation_id": "1842732351245480380",
+            "public_metrics": {
+              "quote_count": 2,
+              "reply_count": 5,
+              "impression_count": 16800,
+              "bookmark_count": 15,
+              "retweet_count": 8,
+              "like_count": 69
+            },
+            "lang": "en",
+            "author_id": "87111271"
+          },
+          "url": "http://www.twitter.com/87111271/status/1842732351245480380"
+        }
+      },
+      {
+        "type": "twitter",
+        "data": {
+          "media": [],
+          "author": {
+            "created_at": "2007-10-21T01:50:51.000Z",
+            "description": "fast cars and slow cookers. mostly hanging out on Threäds now, so don’t expect me to see your stuff here.",
+            "verified": false,
+            "id": "9571702",
+            "public_metrics": {
+              "tweet_count": 54856,
+              "followers_count": 25345,
+              "listed_count": 672,
+              "following_count": 1963,
+              "like_count": 95473
+            },
+            "profile_image_url": "https://pbs.twimg.com/profile_images/1486363238015160331/4YG_qZt6_normal.png",
+            "username": "pt",
+            "name": "parker"
+          },
+          "post": {
+            "text": "@dflieb I found cloud vs clock problems to be a compelling frame for Elon’s issues. Arguably he’s never had very good taste. For example, he’s always been a big fan of Windows servers. 😀\n\nhttps://t.co/6AVfLmsoy3",
+            "entities": {
+              "mentions": [
+                {
+                  "end": 7,
+                  "start": 0,
+                  "id": "312479100",
+                  "username": "dflieb"
+                }
+              ],
+              "annotations": [
+                {
+                  "end": 72,
+                  "start": 69,
+                  "type": "Person",
+                  "probability": 0.9268,
+                  "normalized_text": "Elon"
+                },
+                {
+                  "end": 174,
+                  "start": 168,
+                  "type": "Other",
+                  "probability": 0.9376,
+                  "normalized_text": "Windows"
+                }
+              ],
+              "urls": [
+                {
+                  "end": 211,
+                  "description": "Three books reckon with technological complexity and the wicked problems it creates. The philosopher Karl Popper once argued that there are two kinds of problems in the world: clock problems and cloud problems. As the metaphor suggests, clock problems obey a certain logic. They are orderly and can be broken down and analyzed piece by piece. When a clock stops working, you’re able to take it apart, look for what’s wrong, and fix it. The fix may not be easy, but it’s achievable. Crucially, you know when",
+                  "start": 188,
+                  "url": "https://t.co/6AVfLmsoy3",
+                  "title": "Learning from catastrophe",
+                  "status": 200,
+                  "expanded_url": "https://www.technologyreview.com/2024/06/26/1093692/book-review-technological-complexity-problems/amp/",
+                  "unwound_url": "https://www.technologyreview.com/2024/06/26/1093692/book-review-technological-complexity-problems/amp/",
+                  "display_url": "technologyreview.com/2024/06/26/109…"
+                }
+              ]
+            },
+            "context_annotations": [
+              {
+                "entity": {
+                  "id": "781974596752842752",
+                  "name": "Services"
+                },
+                "domain": {
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                  "id": "30",
+                  "name": "Entities [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+                  "id": "1557697333571112960",
+                  "name": "Technology Business"
+                },
+                "domain": {
+                  "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+                  "id": "46",
+                  "name": "Business Taxonomy"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10027232467",
+                  "name": "Microsoft"
+                },
+                "domain": {
+                  "description": "Brands and Companies",
+                  "id": "47",
+                  "name": "Brand"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10027604610",
+                  "name": "Microsoft Windows"
+                },
+                "domain": {
+                  "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+                  "id": "48",
+                  "name": "Product"
+                }
+              },
+              {
+                "entity": {
+                  "description": "Technology and computing",
+                  "id": "848920371311001600",
+                  "name": "Technology"
+                },
+                "domain": {
+                  "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+                  "id": "30",
+                  "name": "Entities [Entity Service]"
+                }
+              },
+              {
+                "entity": {
+                  "id": "10027604610",
+                  "name": "Microsoft Windows"
+                },
+                "domain": {
+                  "description": "A taxonomy of user interests. ",
+                  "id": "131",
+                  "name": "Unified Twitter Taxonomy"
+                }
+              }
+            ],
+            "edit_history_tweet_ids": ["1842965315229253918"],
+            "id": "1842965315229253918",
+            "referenced_tweets": [
+              {
+                "type": "replied_to",
+                "id": "1842958053404197201"
+              }
+            ],
+            "created_at": "2024-10-06T16:29:06.000Z",
+            "conversation_id": "1842958053404197201",
+            "public_metrics": {
+              "quote_count": 1,
+              "reply_count": 2,
+              "impression_count": 3858,
+              "bookmark_count": 19,
+              "retweet_count": 0,
+              "like_count": 32
+            },
+            "lang": "en",
+            "author_id": "9571702",
+            "in_reply_to_user_id": "312479100"
+          },
+          "url": "http://www.twitter.com/9571702/status/1842965315229253918"
+        }
+      }
+    ]
+  }
+}

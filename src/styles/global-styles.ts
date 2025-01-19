@@ -5,7 +5,7 @@ const globalStylesObj = {
   '*,*::before,*::after': {
     margin: 0,
     padding: 0,
-    boxSizing: 'inherit',
+    boxSizing: 'border-box',
     fontStyle: 'inherit',
     lineHeight: '150%',
     'font-smoothing': 'antialiased',
@@ -20,7 +20,6 @@ const globalStylesObj = {
     zIndex: 1,
   },
   'html, body': {
-    minWidth: '320px',
     textSizeAdjust: '100%',
     WebkitTapHighlightColor: 'rgba(0, 0, 0, 0)',
     backgroundColor: '$bgColor',
@@ -28,6 +27,14 @@ const globalStylesObj = {
     overflowX: 'hidden',
     scrollBehavior: 'smooth',
     position: 'relative',
+
+    '&::-webkit-scrollbar': {
+      width: '0 !important',
+    },
+
+    '&::-webkit-scrollbar-thumb': {
+      width: '0 !important',
+    },
   },
   html: {
     boxSizing: 'border-box',
@@ -42,6 +49,7 @@ const globalStylesObj = {
     fontStyle: 'normal',
     minHeight: '100vh',
     height: '-webkit-fill-available',
+    backgroundColor: '$ghostWhite',
   },
   '#root': {
     position: 'relative',
@@ -55,13 +63,11 @@ const globalStylesObj = {
   svg: {
     maxWidth: '100%',
     verticalAlign: 'middle',
-    strokeWidth: '1.5'
+    strokeWidth: '1.5',
   },
   ul: {
-    listStyle: 'disc',
-    '-webkit-padding-start': '32px',
+    listStyle: 'none',
     '-webkit-margin-before': '0',
-    'margin-block-start': '$1',
     '-webkit-margin-after': 'unset',
     'margin-block-end': 'unset',
   },
@@ -71,20 +77,12 @@ const globalStylesObj = {
   fieldset: {
     border: 'none',
   },
-  '::selection': { 
-    background: 'rgba(0, 85, 255, 0.2)' 
+  '::selection': {
+    background: 'rgba(0, 85, 255, 0.2)',
   },
   '*': { boxSizing: 'inherit' },
   'b,em': {
     fontWeight: '600',
-  },
-  'h1,h2,h3,h4,h5,h6': {
-    fontWeight: '600',
-    fontStyle: 'normal',
-    color: '$textDark',
-    letterSpacing: -1,
-    wordSpacing: '-1.5px',
-    lineHeight: '120%',
   },
   h1: {
     fontSize: '$heading3',
@@ -107,14 +105,24 @@ const globalStylesObj = {
   h6: {
     fontSize: '$heading6',
   },
-  'p, ul, li , a': {
-    fontSize: '$body1',
-    fontWeight: '400',
-    lineHeight: '150%',
-
-    '@bp1': {
-      fontSize: 20,
-    }
+  'p, ul, li , a': {},
+  'input[type=number]': {
+    '-moz-appearance': 'textfield',
+  },
+  input: {
+    '&::-webkit-outer-spin-button': {
+      '-webkit-appearance': 'none',
+      margin: 0,
+    },
+    '&::-webkit-inner-spin-button': {
+      '-webkit-appearance': 'none',
+      margin: 0,
+    },
+  },
+  button: {
+    outline: 'none',
+    border: 'none',
+    cursor: 'pointer',
   },
 };
 

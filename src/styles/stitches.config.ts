@@ -13,46 +13,54 @@ export const {
   theme,
 } = createStitches({
   theme: {
-    // Base colors
+    fonts: {
+      inter: 'var(--font-inter)',
+    },
     colors: {
-      black: '#0e0e0e',
+      black: '#000000',
+      black2: '#0e0e0e',
       white: '#ffffff',
+      offWhite: '#FAFBFB',
+      ghostWhite: '#f5f5f5',
+      alabaster: '#F0F0F0',
+      midnight: '#060606',
+      granite: '#666666',
     },
     space: {
       1: '4px',
       2: '8px',
-      3: '16px',
-      4: '24px',
-      5: '32px',
-      6: '40px',
-      7: '48px',
-      8: '56px',
-      9: '64px',
-      10: '72px',
-      11: '80px',
-      12: '88px',
-      13: '96px',
-      14: '104px',
-      15: '112px',
-      16: '120px',
+      3: '12px',
+      4: '16px',
+      5: '20px',
+      6: '24px',
+      7: '28px',
+      8: '32px',
+      9: '38px',
+      10: '40px',
+      11: '44px',
+      12: '48px',
+      13: '52px',
+      14: '56px',
+      15: '60px',
+      16: '64px',
     },
     sizes: {
       1: '4px',
       2: '8px',
-      3: '16px',
-      4: '24px',
-      5: '32px',
-      6: '40px',
-      7: '48px',
-      8: '56px',
-      9: '64px',
-      10: '72px',
-      11: '80px',
-      12: '88px',
-      13: '96px',
-      14: '104px',
-      15: '112px',
-      16: '120px',
+      3: '12px',
+      4: '16px',
+      5: '20px',
+      6: '24px',
+      7: '28px',
+      8: '32px',
+      9: '38px',
+      10: '40px',
+      11: '44px',
+      12: '48px',
+      13: '52px',
+      14: '56px',
+      15: '60px',
+      16: '64px',
     },
     fontSizes: {
       display1: '62px',
@@ -65,10 +73,16 @@ export const {
       heading5: '15px',
       heading6: '13px',
       body1: '16px',
-      body2: '15px',
-      body3: '13px',
+      body2: '14px',
+      body3: '12px',
     },
-    fontWeights: {},
+    fontWeights: {
+      0.5: '300',
+      1: '400',
+      2: '500',
+      3: '600',
+      4: '700',
+    },
     letterSpacings: {},
     borderWidths: {},
     borderStyles: {},
@@ -76,9 +90,12 @@ export const {
     radii: {
       1: '4px',
       2: '8px',
-      3: '16px',
-      4: '24px',
+      3: '12px',
+      4: '16px',
+      5: '20px',
+      6: '24px',
       round: '50%',
+      roundFull: '999px',
       pill: '9999px',
     },
     zIndices: {
@@ -125,8 +142,6 @@ export const {
       paddingTop: value,
       paddingBottom: value,
     }),
-
-    // border
     bx: (value: Stitches.PropertyValue<'borderLeft'>) => ({
       borderLeft: value,
       borderRight: value,
@@ -135,7 +150,6 @@ export const {
       borderTop: value,
       borderBottom: value,
     }),
-
     m: (value: Stitches.PropertyValue<'margin'>) => ({
       margin: value,
     }),
@@ -159,14 +173,11 @@ export const {
       marginTop: value,
       marginBottom: value,
     }),
-
     ta: (value: Stitches.PropertyValue<'textAlign'>) => ({ textAlign: value }),
-
     fd: (value: Stitches.PropertyValue<'flexDirection'>) => ({
       flexDirection: value,
     }),
     fw: (value: Stitches.PropertyValue<'flexWrap'>) => ({ flexWrap: value }),
-
     ai: (value: Stitches.PropertyValue<'alignItems'>) => ({
       alignItems: value,
     }),
@@ -242,6 +253,7 @@ export const {
 });
 
 export type CSS = Stitches.CSS<typeof config>;
+export type { VariantProps } from '@stitches/react';
 
 export const darkTheme = createTheme({
   colors: {
