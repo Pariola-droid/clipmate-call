@@ -120,9 +120,11 @@ const StyledSidebar = styled('nav', {
 });
 
 const SidebarHeader = styled('div', {
-  marginBottom: 24,
-  padding: '0 8px',
+  marginBottom: 16,
+  paddingInline: 8,
+  paddingBottom: 16,
   flex: 1,
+  borderBottom: '1px solid #f0f0f0',
 
   h2: {
     fontSize: '1.5rem',
