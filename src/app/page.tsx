@@ -3,7 +3,7 @@
 import { styled } from '@/styles';
 import { AnimatePresence, motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
-import { ICollection } from './types';
+import { ICollection } from '../types';
 
 interface State {
   collection: ICollection[];
