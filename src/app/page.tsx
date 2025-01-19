@@ -5,12 +5,31 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { useEffect, useState } from 'react';
 import { ICollection } from './types';
 
+interface State {
+  collection: ICollection[];
+  loading: boolean;
+  error: string | null;
+  activeItem: string | null;
+  isHovering: string | null;
+}
+
+const initialState: State = {
+  collection: [],
+  loading: true,
+  error: null,
+  activeItem: null,
+  isHovering: null,
+};
+
 export default function Home() {
-  const [collection, setCollection] = useState<ICollection[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [activeItem, setActiveItem] = useState<string | null>(null);
-  const [isHovering, setIsHovering] = useState<string | null>('');
+  const [state, setState] = useState<State>(initialState);
+
+  const handleSetState = (newState: Partial<State>) => {
+    setState((prevState) => ({
+      ...prevState,
+      ...newState,
+    }));
+  };
 
   useEffect(() => {
     const fetchCard = async () => {
@@ -20,23 +39,27 @@ export default function Home() {
           throw new Error('Failed to fetch users');
         }
         const data = await response.json();
-        setCollection(data.data.collections);
+        handleSetState({
+          collection: data.data.collections,
+          loading: false,
+        });
       } catch (err: any) {
-        setError(err.message);
-      } finally {
-        setLoading(false);
+        handleSetState({
+          error: err.message,
+          loading: false,
+        });
       }
     };
 
     fetchCard();
   }, []);
 
-  if (loading) {
+  if (state.loading) {
     return <div>Loading...</div>;
   }
 
-  if (error) {
-    return <div>Error: {error}</div>;
+  if (state.error) {
+    return <div>Error: {state.error}</div>;
   }
 
   return (
@@ -44,22 +67,26 @@ export default function Home() {
       <StyledSidebar>
         <SidebarHeader>
           <h2>Collections</h2>
-          <SmallText>{collection.length} items</SmallText>
+          <SmallText>{state.collection.length} items</SmallText>
         </SidebarHeader>
         <CollectionList>
           <AnimatePresence>
-            {collection.map((item, index) => (
+            {state.collection.map((item, index) => (
               <CollectionItem
                 key={item.collectionId}
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.2, delay: index * 0.04 }}
-                active={activeItem === item.collectionId}
-                onClick={() => setActiveItem(item.collectionId)}
-                onMouseEnter={() => setIsHovering(item.collectionId)}
-                onMouseLeave={() => setIsHovering(null)}
+                active={state.activeItem === item.collectionId}
+                onClick={() =>
+                  handleSetState({ activeItem: item.collectionId })
+                }
+                onMouseEnter={() =>
+                  handleSetState({ isHovering: item.collectionId })
+                }
+                onMouseLeave={() => handleSetState({ isHovering: null })}
               >
-                {isHovering === item.collectionId && (
+                {state.isHovering === item.collectionId && (
                   <ActiveIndicator layoutId="active-indicator" />
                 )}
                 <CollectionName>{item.name}</CollectionName>
